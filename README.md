@@ -1,7 +1,7 @@
 # paintforge
 PaintForge, a paint program for Tapwave Zodiac based on X-Forge game engine
 
-![Logo](https://github.com/jarikomppa/paintforge/blob/main/img/logo.png?raw=true)
+![Logo](https://github.com/jarikomppa/paintforge/blob/main/logo.png?raw=true)
 
 ## What?
 
