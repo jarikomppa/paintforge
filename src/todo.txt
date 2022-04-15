@@ -1,0 +1,12 @@
+TODO
+
+- span buffer for dirty areas
+
+- Speed up the toolkit
+- Create layer widget
+- Create layer support
+- Create filter effects(?)
+- Zoom mode(?)
+- Ponder on removing the visual difference that comes from 
+	a) rendering layers onto 16bit fb separately
+	b) rendering flattened layers onto 16bit fb
